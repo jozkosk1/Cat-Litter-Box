@@ -1,7 +1,8 @@
 # Cat-Litter-Box
-This project is distributed under the GPL v3. 
-Oversized 3D printed parts (doors) are optimized for the Prusa MINI printer.
-This project was created in cooperation with [Monelline](https://www.facebook.com/profile.php?id=100076515751206).
+This project is distributed under the GPL v3. <br />
+Oversized 3D printed parts (doors) are optimized for the Prusa MINI printer.<br />
+This project was created in cooperation with [Monelline](https://www.facebook.com/profile.php?id=100076515751206).<br />
+To download the entire package, click on **CODE** > **Download ZIP**.
 
 # Parts
 

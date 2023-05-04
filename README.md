@@ -35,7 +35,7 @@ To download the entire package, click on **CODE** > **Download ZIP**.
  10. Install one of the joint on the box. 
  11. Complete the door assembly and install the second joint on the box.  
  12. Complete wall assembly (**plexi_wall_1**, **plexi_wall_2**, **plexi_90deg_holder**)
- 13. Cut a mesh with an approximate size of 360x185mm.
+ 13. ~~Cut a mesh with an approximate size of 360x185mm.~~ Assemble the printed parts of the grid.
  14. Tighten the **leg**s to the mesh with the screws.
  15. Insert mesh into the box.
  16. Insert plexi_wall assembly into the box. 

@@ -11,7 +11,7 @@ To download the entire package, click on **CODE** > **Download ZIP**.
  - Screw  DIN 7985 M3x10 - 30 pieces
  - Screw ISO 7380 M8x10 - 6 pieces
  - Nut DIN 934 M3 - 28 pieces
- - Wire mesh (I used wire mesh with 10mm holes)
+ - ~~Wire mesh (I used wire mesh with 10mm holes)~~ 3D printed parts: **mriezka_3D_tlac** - 2 pieces and **back** and **front** - 1 piece of each
  - Transparent office foil
  - 3D printed part: **door_bottom** - 1 piece 
  - 3D printed part: **door_top** - 1 piece
